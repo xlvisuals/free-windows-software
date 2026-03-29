@@ -1,2 +1,428 @@
-# free-windows-software
+# Curated list of free software for Windows
+
 A curated list of free everyday software tools for Windows (files, documents, photos, video, system, network, backup, graphics, 3D, CAD, games, etc). Most of the programs are open-source, some are proprietary but free but.
+
+## Popular free/open-source utilities
+
+- [7Zip](https://7-zip.org/download.html) – free and open-source file archiver.
+
+- [1Password](https://1password.com/), [KeePassXC](https://keepassxc.org/), or [Password Safe](https://www.pwsafe.org/) – the most secure password managers.
+
+- [AB Download Manager](https://github.com/amir1376/ab-download-manager) or [JDownloader](https://jdownloader.org/) or [FDM](https://www.freedownloadmanager.org/)  – free download managers for large and multi–part downloads.
+
+- [Affinity Studio](https://www.affinity.studio/) – Similar to Photoshop, Illustrator, and InDesign. Free with account.
+
+- [Alt App Installer](https://github.com/mjishnu/alt-app-installer) – free and open-source program to download and install microsoft store apps, for cli version check [alt app installer cli](https://github.com/mjishnu/alt-app-installer-cli). 
+
+- [Ant Renamer](https://www.antp.be/software/renamer) – free versatile file renamer. Supports Windows NT4 to Windows 11.
+
+- [AOMEI Backupper](https://www.aomeitech.com/ab/standard.html) – Backup for windows, free for personal use.
+
+- [Audacity](https://www.audacityteam.org/download/) or [Oceanaudio](https://www.ocenaudio.com/en/) – free audio editors for recording, editing, and mixing.
+
+- [BleachBit](https://www.bleachbit.org/) – free and open-source disk space cleaner.
+
+- [Blender](https://www.blender.org/download/) – free and open-source 3D computer graphics software tool, often used for modeling.
+
+  - Alternatives:
+
+    - [Sculptris](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Sculptris.shtml#download) – free and easy to use “virtual clay” modeling software.
+
+    - [Wings 3D](https://www.wings3d.com/) – free and open-source advanced subdivision modeler.
+
+- [Burp Suite](https://portswigger.net/burp/communitydownload) – web security testing suite, free community edition.
+
+- [Calibre](https://calibre-ebook.com/) – free Ebook manager and reader.
+
+  - [DeDRM](https://github.com/noDRM/DeDRM_tools) – plugin to remove DRM from ebooks (e.g. Kindle). 
+
+  - [Kindle 1.17](https://web.archive.org/web/20170111102550/https://s3.amazonaws.com/kindleforpc/44183/KindleForPC-installer-1.17.44183.exe) – Older version of Amazon ebook reader software for that downloads eBooks in a format supported by DeDRM. 
+
+    - Uninstall current Kindle for PC.
+    
+    - Open regedit.exe and delete the registry key folder "HKEY\_CURRENT\_USER\\SOFTWARE\\Amazon".
+
+    - Install Kindle 1.17 for PC.
+
+- [ClamAV](https://www.clamav.net/) – free and open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats. It is used internally by solutions like [ClamWin](https://clamwin.com/) and [MoonSecure](https://moonsecure.org/df/).
+
+- [Clementine](https://www.clementine-player.org/) or [foobar2000](https://www.foobar2000.org/) – free **audio/music** player.
+
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) – free tool for displaying detailed health information about drives.
+
+- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) – free and open-source benchmark tool to test the read and write speeds of drives.
+
+- [Cygwin](https://cygwin.com/) (up-to-date) or [Gow](https://github.com/bmatzelle/gow/) (outdated) – free collection of Linux software for Windows.
+
+  - To avoid problems in Cygwin related to different file permission handling between Windows and POSIX, use the *noacl* option in /etc/fstab:  
+
+    - Edit /etc/fstab and add this line at the end of the **file**: 
+
+```
+		`none /cygdrive cygdrive binary,noacl,posix=0,user 0 0`
+```
+
+- [Darktable](https://www.darktable.org/)  and D[igiKam](https://www.digikam.org/) – free and open source photography workflow applications for photo management, RAW development, and image editing.
+
+  - `Neither has the full functionality of Adobe Lightroom. To replace Lightroom, you would need to use DigiKam to organise photos, and open images through the context menu in Darktable for RAW development/editing.`
+
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://www.shotcut.org/), or [Kdenlive](https://cdn.kde.org/ci-builds/multimedia/kdenlive/) – free and versatile video editors. Davinci is the proprietary industry-standard workhorse, Shotcut and Kdenlive are popular open-source editors. They are less powerful but also have much lower hardware requirements.
+
+- [Dependencies Viewer](https://github.com/lucasg/Dependencies) – 64–bit rewrite of [Dependency Walker](https://www.dependencywalker.com/). Open source dependency walker.
+
+- [DiskInternals Linux reader](https://www.diskinternals.com/linux-reader/) –– a free tool for extracting files from Linux and macOS drives.
+
+- [Dolphin](https://apps.kde.org/dolphin/), [Double Commander](https://doublecmd.sourceforge.io/), [FastCopy](https://fastcopy.jp/), [UltraCopier](https://ultracopier.herman-brule.com/) – free and open-source file copy programs that are much faster than Windows Explorer. Dolphin is the closest to macOS Finder, [download here](https://cdn.kde.org/ci-builds/system/dolphin/).
+
+- [Draw.io Desktop](https://github.com/jgraph/drawio-desktop) – free and open-source diagramming app.
+
+- [Everything](https://www.voidtools.com/downloads/) – a free fast and powerful file **search** tool for Windows, similar to Spotlight for macOS. Also available as a plugin for [Flow Launcher](https://www.flowlauncher.com/).
+
+- [Exif Data Viewer ](http://www.exifdataviewer.com/)– free tool to view metadata embedded in digital photos (camera, exposure, etc).
+
+- [ExifFixer](https://exiffixer.com/) – free tool that sets the correct metadata for panoramic and 360 degree photos.
+
+- [Firefox](https://www.firefox.com/en-US/) browser with [uBlock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) – a free and open-source browser and extension that efficiently blocks ads, trackers, and other unwanted content.
+
+  - Extensions:
+
+    - [uBlock Origin](https://ublockorigin.com/) – blocks ads and trackers.
+
+    - [Clear Cache](https://addons.mozilla.org/en-US/firefox/addon/clearcache) – Clear browser cache with a single click or via the F9 key. 
+
+    - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) – no ads on YouTube.
+
+    - [Fireshot](https://addons.mozilla.org/en-US/firefox/addon/fireshot/) – webpage screenshots, offline.
+
+    - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) – Block all scripts and trackers. Allow potentially malicious web content to run only from sites you trust.
+
+    - [Dark Reader](https://darkreader.org/) – dark mode for every website.
+
+    - [CSS Toggler](https://addons.mozilla.org/en-US/firefox/addon/css-toggler/) – quickly toggle CSS (for Development).
+
+    - [Export Cookies](https://addons.mozilla.org/en-US/firefox/addon/export-cookies-txt) – Export cookies to cookies.txt file (for Development).
+
+    - [CORS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/) – Enable CORS for servers that don’t support it (for Development).
+
+    - [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer) – identify technologies on websites (for Development).
+
+  - Alternative Browsers:
+
+	- [Brave](https://brave.com/download/) – blocks ads and trackers, free.
+	
+	- [Librewolf](https://librewolf.net/) – primary goals of privacy, security and user freedom, free.
+	
+	- [Waterfox](https://www.waterfox.com/) – privacy focused browser built for power users who value customization.
+	
+	- [Waterfox Classic](https://classic.waterfox.net/) –  Compatibility with Windows XP.
+	
+	- [K–Meleon](http://kmeleonbrowser.org/) – lightweight browser for Win32.
+	
+	- [Supermium](https://www.win32subsystem.live/supermium/) –  Chromium based, compatibility with Windows XP.
+	
+	- [Pale Moon](https://www.palemoon.org/) – Compatibility with Windows 7.
+	
+- [Fre:ac](https://www.freac.org/) or [CDex](https://cdex.mu/) – free and open-source tools to convert audio CDs to formats like MP3, FLAC.
+
+- [FreeCAD](https://www.freecad.org/), [Macad|3D](https://macad3d.net/) – free and open-source 3D construction programs (CAD) with exports for printing, milling, laser cutting and photo etching. 
+
+	- Other CAD software:
+	
+		- [Chili3d.com](https://chili3d.com/) – Free browser-based CAD software. No account required.
+		
+		- [Fusion360](https://www.autodesk.com/products/fusion-360/personal) – Commercial CAD software. Free with account for non-commercial use.
+		
+		- [CaDoodle](https://github.com/CommonWealthRobotics/CaDoodle) – free and open-source offline CAD app similar to TinkerCAD.
+		
+		- [OpenSCAD](https://openscad.org/) – free and open-source tool for creating 3D CAD objects from coded instructions. Use [threadlib](https://github.com/adrianschlatter/threadlib) for threads.
+		
+		- [Onshape](https://www.onshape.com/en) – "Solidworks in the browser". Free with account for non-commercial use.
+		
+		- [TinkerCAD](https://www.tinkercad.com/) – simple online visual modeller. Free with account for non-commercial use.
+
+- [Freemind](https://sourceforge.net/projects/freemind/) – free and open-source mind mapping software.
+
+- [Gimp](https://www.gimp.org/) – free and open-source image editor similar to Photoshop
+
+- [Git](https://gitforwindows.org/) – best source code version control, free. See [Forgejo](https://forgejo.org/) (linux) for self-hosting repos, CI/CD, Wiki.
+
+- [Greenshot](https://getgreenshot.org/) or [ShareX](https://getgreenshot.org/downloads/) –  free and open-source screenshot program.
+
+- [Godot](https://godotengine.org/) – free and open-source game engine for 2D, 3D and XR game development.
+
+- [Handbrake](https://handbrake.fr/) – free and open-source tool for transcoding video.
+
+- [Hugin](https://hugin.sourceforge.io/) – free and easy to use panoramic imaging toolchain.
+
+- [HWiNFO](https://www.hwinfo.com/) – free Hardware Analysis, Monitoring and Reporting.
+
+- [HxD](https://mh-nexus.de/en/hxd/) – Hex file + disk Editor, free.
+
+- [ImgBurn](https://www.imgburn.com/) – free tool to read and write a wide range of image file formats – including BIN, CUE, DI, DVD, GI, IMG, ISO, MDS, NRG and PDI.
+
+- [InfraRecorder](http://infrarecorder.org/) or [CDBurnerXP](https://www.cdburnerxp.se/) – free CD/DVD burning solution.
+
+- [Inkscape](https://inkscape.org/) – free and open-source software vector graphics editor.
+
+- [Inno Setup](https://jrsoftware.org/isinfo.php) – Make installers for windows, free.
+
+- [iPerf3](https://iperf.fr/iperf-download.php) – network speed test tool, free.
+
+- [Jellyfin](https://jellyfin.org/) – Polished free and open-source media server and player. Webserver runs on port 8096, e.g. http://localhost:8096/
+ 
+  - Plugins:
+ 
+    - [Fanart](https://github.com/jellyfin/jellyfin-plugin-fanart) - Scrape poster images for movies, shows, and artists in your library.
+
+    - [Intro Skipper](https://github.com/jellyfin/jellyfin-plugin-introskipper) - Analyzes the audio of television episodes and detects introduction sequences.
+
+    - [MusicBrainz](https://github.com/jellyfin/jellyfin-plugin-musicbrainz) - Get artist and album metadata from any MusicBrainz server.
+
+    - [OMDb](https://github.com/jellyfin/jellyfin-plugin-omdb) - Get metadata for movies and other video content from OMDb.
+
+    - [Reports](https://github.com/jellyfin/jellyfin-plugin-reports) - Generate list and reports.
+
+    - [Studio Images](https://github.com/jellyfin/jellyfin-plugin-studioimages) - Get artwork for studios from any Jellyfin-compatible repository.
+
+    - [TheTVDB](https://github.com/jellyfin/jellyfin-plugin-tvdb) - Get TV metadata from TheTvdb.
+
+    - [TMDb](https://github.com/jellyfin/jellyfin-plugin-tmdb) - Get metadata for movies and other video content from TheMovieDb.
+
+    - [TMDB Box Sets](https://github.com/jellyfin/jellyfin-plugin-tmdbboxsets) - Automatically create movie box sets based on TMDb collections.
+
+
+  - Clients:
+ 
+    - [Fladder](https://github.com/DonutWare/Fladder) - Free, modern, smooth client for Android, macOS, iOS, Linux, Web, and Windows.
+   
+    - [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-desktop) - Default player, a solid choice. Also available for Android and iOS.
+   
+    - [Swiftfin](https://github.com/jellyfin/swiftfin) - A fast, native iOS and tvOS player for Jellyfin. Download via App Store.
+   
+    - [Wholphin](https://github.com/damontecres/Wholphin) - Android TV client for Jellyfin.
+   
+    - [Feishin](https://github.com/jeffvli/feishin) - Audio client that resembles Spotify, but better.
+   
+   
+- [JMeter](https://jmeter.apache.org/) – free and open source Web site load tester.
+
+- [K–Lite Codec Pack](https://www.codecguide.com/download_kl.htm) – free software bundle for high quality audio and video playback.
+
+- [Executor](https://executor.dk/), [Flow Launcher](https://www.flowlauncher.com/), or [Keypirinha](https://keypirinha.com/) – free, fast keystroke launchers (like Spotlight or Quicksilver for macOS).
+
+- [KiCad](https://www.kicad.org/) – free and open-source PCB design schematic editor.
+
+- [Kid3](https://kid3.kde.org/) – free audio tagger to manage metadata in music files (artist, album, track number, artwork etc).
+
+- [Kiwix](https://kiwix.org/en/) – free and open-source offline downloader and reader for websites and Wikipedia, StackExchange, iFixit, StackOverflow, Project Gutenberg.
+
+- [Krita](https://krita.org/en/) – free and open-source painting program.
+
+- [Lazarus](https://www.lazarus-ide.org/) – free and open-source Delphi/Pascal. Could also use [Borland Delphi 7](https://winworldpc.com/product/delphi/70) for hobby projects.
+
+- [LegacyUpdate](https://legacyupdate.net/) – download and install Windows updates for Windows 2000 to 11, including Server. 
+
+  - [Windows Update Restored](https://www.windowsupdaterestored.com/) – the same for Windows 95, NT, 98, ME, 2000 up to SP2.
+
+- [LibreOffice](https://www.libreoffice.org/), and [OnlyOffice](https://www.onlyoffice.com/) – free and open-source office productivity software suite that can also create and edit PDF documents, including fillable forms.
+
+- [LMMS](https://lmms.io/) – free and open-source multichannel digital audio workstation (DAW) for music production by arranging samples.
+
+- [MajorGeeks Windows Tweaks](https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks) – free and open source tool to enable tweaks and hidden features in Windows 11, 10, 8, and 7. [Download via Sourceforge](https://sourceforge.net/projects/majorgeeks-windows-tweaks/). [List of all tweaks here](https://www.majorgeeks.com/mg/sortpopularity/majorgeeks_registry_batch_file_tweaks.html).
+
+- [MakeMKV](https://www.makemkv.com/) – free tool to convert (‘rip’) DVD and Blue–rays discs to .mkv files that you can play anywhere.
+
+- [Meshlab](https://www.meshlab.net/) – free and open source system for processing and editing 3D triangular meshes.
+
+- [Meshmixer](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/MeshMixer.shtml) – free ‘swiss–army knife’ for creating and editing 3D triangular meshes.
+
+- [Microsoft Activation Scripts (MAS)](https://massgrave.dev/) –  free and open-source Windows and Office activator.
+
+- Microsoft Security Essentials – free virus scanner for Windows XP, Vista, 7.
+
+  - [v4.4.304.0 for Windows XP, Vista, 7](https://archive.org/details/mse-4.4.304-x86_x64) includes last working definition update.
+
+  - [v4.10.209.0 for Windows Vista, 7](https://www.techspot.com/downloads/4886-microsoft-security-essentials.html) and download last [Security Essentials Definition Update](https://www.techspot.com/downloads/5247-microsoft-security-essentials-definition-update.html)
+
+- [Mixxx](https://mixxx.org/) – free  and open-source software for DJing.
+
+- [MiniTool Partition Wizard](https://www.partitionwizard.com/) – free, powerful partition manager that can perform complicated partition operations. The last free version that includes cloning of whole disks and partitions is [Version 11.5](https://www.afterdawn.com/software/system_tools/partitioning/minitool_partition_wizard_home_edition.cfm/v11_5).
+
+- [MSYS2 (Mingw)](https://www.msys2.org/) – free and open source development environment.
+
+- [NirLauncher](https://launcher.nirsoft.net/) – free collection of over 200 tools including password recovery, network monitors, system diagnostics, registry editing, etc.
+
+- [NMap](https://nmap.org/) – free and open source Network mapper and scanner.
+
+- [Notepad++](https://notepad-plus-plus.org/downloads/) – free text and source code editor.
+
+- [OBS Studio](https://obsproject.com/) – free and open-source screen–casting and live streaming/recording.
+
+- [Okular](https://okular.kde.org/) – free and open-source universal document viewer (pdf, ebooks, comics, markdown, images, help files). Download from [https://cdn.kde.org/ci-builds/graphics/okular/](https://cdn.kde.org/ci-builds/graphics/okular/) 
+
+- [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) – free and open-source Chart Plotter Navigation, route planning and Grib viewer.
+
+- [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) – free and open-source tool to change the layout and functionality of the Start Menu.
+
+- [OWASP ZAP](https://www.zaproxy.org/) – free and open source Website security scanner.
+
+- [Paint.NET](https://www.getpaint.net/index.html) – free and lightweight image and photo editing software.
+
+- [PDF24 Creator](https://www.pdf24.org/en/) – Free PDF printer, e.g. for older systems.
+
+- [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) or [Thonny](https://thonny.org/) – Free Python IDE. PyCharm also supports JavaScript, CSS, HTML, etc.
+
+- [Q–Dir](https://q-dir.com/) – free file manager that lets you manage multiple folders with a customizable four–panel interface.
+
+- [Qbittorrent](https://www.qbittorrent.org/) – free and open-source BitTorrent client.
+
+- [Recuva](https://www.ccleaner.com/recuva/) – free recovery tool for deleted files.
+
+- [RegEditor](https://www.oo-software.com/en/ooregeditor), [TotalRegistry](https://github.com/zodiacon/TotalRegistry), or [Advanced Regedit](https://sourceforge.net/projects/regedt33/) – improved Windows registry editors, free. 
+
+- [Rufus](https://rufus.ie/en/) and [Balena Etcher](https://etcher.balena.io/) – free utilities to create bootable USB flash drives.
+
+- [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/) – free and open-source tool to install and update windows device drivers, with a 40+GB driver archive. Supports Windows XP to Windows 11.
+
+- [Sumatra PDF Reader ](https://www.sumatrapdfreader.org/)– view PDFs, eBooks (ePub, Mobi), Comics, CHM and images. Free.
+
+- [SysinternalsSuite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) – free collection of advanced system utilities for Windows.
+
+- [System Informer](https://systeminformer.sourceforge.io/) – free, powerful, multi–purpose monitoring tool.
+
+- [Sweet Home 3D](http://www.sweethome3d.com/) – free and open source architectural design software that helps users create a 2D and 3D plans of a house and place furniture.
+
+- [Thunderbird](https://www.thunderbird.net/en-US/) – free and open-source e–mail client with calendar and address book.
+  
+  - Extensions:
+
+    - [Expression (Power) Message/Calendar Search](https://addons.thunderbird.net/en-us/thunderbird/addon/expression-search-ng/) – Adds more search and filter criteria: reply-to, bcc, to-only, filename, xnote, date range, time, etc.
+    
+    - [LookOut (Fix Version)](https://addons.thunderbird.net/en-US/thunderbird/addon/lookout-fix-version/) – decodes winmail.dat (TNEF encoded) files from a misconfigured Microsoft Exchange server or Outlook
+
+- [TightVNC](https://www.tightvnc.com/download.php) – free and open-source remote Desktop client + server. Supports Windows XP to Windows 11.
+
+- [UniGetUI](https://github.com/Devolutions/UniGetUI) (formerly WingetUI) – free and open-source GUI for the most common CLI package managers, including [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/), [Scoop](https://scoop.sh/), [Chocolatey](https://chocolatey.org/), [Pip](https://pypi.org/), [Npm](https://www.npmjs.com/), [.NET Tool](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-tool-install), [PowerShell Gallery](https://www.powershellgallery.com/).
+
+- [UnxUtils](https://sourceforge.net/projects/unxutils/) – Port of the most important GNU utilities to Windows (but no rsync), free.
+
+- [VcXsrv](https://sourceforge.net/projects/vcxsrv/) – Windows X Server, free.
+
+- [Ventoy](https://www.ventoy.net/en/index.html) – free and open-source **tool** to create bootable USB drive for multiple ISO files.
+
+- [Violet](https://sourceforge.net/projects/violet/) – free and open-source cross-platform UML Editor/modeler that’s easy to learn and use.
+
+  - More complex free and open-source alternatives:
+
+    - [Modelio](https://www.modelio.org/index.htm) – supports UML, BPMN, AchiMate, SysML, Togaf, ... 
+
+    - [StarUML](https://staruml.io/) –  supports UML, ERD, Dataflow, Mindmap, C4, BPMN, Wireframe, ...
+
+- [VLC](https://www.videolan.org/vlc/) – free and open-source cross–platform media player.
+
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat), [ShutUp10++](https://www.oo-software.com/en/shutup10) + [AppBuster](https://www.oo-software.com/en/ooappbuster), [Wintoys](https://www.techspot.com/downloads/6152-wintoys.html), [xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) – free tools to tweak settings and remove software bloat and telemetry reporting.
+
+- [WinCDEmu](https://wincdemu.sysprogs.org/download/) – free and open-source utility for mounting disk image files.
+
+- [WinDirStat](https://windirstat.net/download.html) – free and open-source graphical disk usage analyzer.
+
+- [Winget](https://github.com/paulerrr/Winget-on-Windows-11-IoT) – a package manager that simplifies app installation and updating via the command line.
+
+- [WinImage](http://winimage.com/download.htm) – a disk utility to manage disk images, including floppy disks – create, edit, write, extract files etc.
+
+- [WinMerge](https://winmerge.org/) – free and open-source software tool for data comparison and merging of text–like files.
+
+- [Wireshark](https://www.wireshark.org/) – free and open-source cross-platformNetwork monitor.
+
+- [Wintoys](https://www.techspot.com/downloads/6152-wintoys.html) – free tool to tweak settings, remove software bloat (Edge, Copilot), free disk space.
+
+- [xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) – free and open-source tweak utility to remove telemetry and adjust settings. A relaunch of [XP-Antispy](https://xp-antispy.org/en/) for Windows 11.
+
+- [YACReader](https://www.yacreader.com/) – free and open-source cross-platform comic book reader.
+
+- [yt–dlp](https://github.com/yt-dlp/yt-dlp) – free and open-source feature–rich command–line audio/video downloader.
+
+
+## Popular free/open-source games
+
+- [0 AD](https://play0ad.com/) – free and open-source Age of Empires clone.
+
+- [Alien Arena](https://alien-arena.itch.io/alien-arena) – free and open-source arena shooter with retro aesthetic and gameplay.
+
+- [Armagetron](https://www.armagetronad.org/) and [Gltron](http://www.gltron.org/) – free and open-source 3D snake game.
+
+- [AstroMenace](https://viewizard.com/) – free and open-source hardcore 3D space scroll-shooter.
+
+- [Bomber, Kapman, Karp, KBlocks, Kigo, KMahjongg, Kolf, KMines, KReversi, KSnakeDuel, KSpaceDuel, PuMoKu](https://apps.kde.org/platforms/windows/) - free an dopen-source clones of popular games from the KDE collection. [Download here](https://cdn.kde.org/ci-builds/games/).
+
+- [Dungeon Crawl Stone Soup](https://crawl.develz.org/) – free and open-source roguelike.
+
+- [Endless Sky](https://endless-sky.github.io/) – free and open-source space trading game.
+
+- [FlightGear](https://www.flightgear.org/) – free and open-source flight simulator.
+
+- [Freeciv](https://freeciv.org/) – free and open-source Civilization clone.
+
+- [Freedoom](https://freedoom.github.io/) – free and open-source Doom clone.
+
+- [Hedgewars](https://openhub.net/p/hedgewars) – free and open-source Worms clone.
+
+- [LGames](https://lgames.sourceforge.io/) – free and open-source clones of Breakout, Tetris, Atomix, Panzer General.
+
+- [Luanti](https://www.luanti.org/en/) – free and open-source Minecraft clone.
+
+- [Nethack](https://www.nethack.org/) – free and open-source roguelike.
+
+- [Neverball](https://neverball.org/) – free and open-source platform game similar to Marble Madness.
+
+- [OpenTTD](https://www.openttd.org/) – free and open-source Transport Tycoon Deluxe clone.
+
+- [OpenRA](https://www.openra.net/) – free and open-source revival of Dune 2000, Red Alert, and Tiberian Dawn.
+
+- [OpenRCT2](https://openrct2.io/) – free and open-source RollerCoaster Tycoon 2 clone.
+
+- [Pingus](https://pingus.seul.org/) – free and open-source Lemmings clone.
+
+- [RVGL](https://rvgl.org/) – free and open-source Re-Volt clone (TC car racer).
+
+- [SuperTuxKart](https://supertuxkart.net/Main_Page) – free and open-source Mario Kart clone.
+
+- [The Battle for Wesnoth](https://www.wesnoth.org/) – free and open-source turned-based RPG.
+
+- [Unvanquished](https://unvanquished.net/) – free and open-source real-time strategy with FPS perspective.
+
+- [Warzone 2100](https://wz2100.net/) – free and open-source 3D realtime strategy.
+
+- [Widelands](https://www.widelands.org/) – free and open-source Settlers clone.
+
+- [Xonotic](https://xonotic.org/) – free and open-source arena shooter with modern graphics and gameplay.
+
+
+## Security Advice
+
+In recent years highly automated “software supply chain attacks” have increasingly common and effective. They work by compromising third–party libraries, developer tools, or dependencies that developers use to develop, package, or deploy their software. When the software is installed,the end-user receives the malware package bundled with the trusted software. We have also seen an increase in “sleepers”, where once tools that were useful become malicious.
+
+
+**Examples:**
+
+
+- [DarkSpectre Browser Extension (2026)](https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers): 8,8 million installations.
+
+- [AnyDesk Production Breach (2024)](https://www.resecurity.com/blog/article/following-the-anydesk-incident-customer-credentials-leaked-and-published-for-sale-on-the-dark-web): 170,000 customers impacted.
+
+- [GlassWorm IDE Extension Attack (2025–2026)](https://www.veracode.com/blog/glassworm-vs-code-extension/): 35,800 confirmed installations.
+
+- [SolarWinds "Orion" Hack (2020)](https://nvd.nist.gov/vuln/detail/CVE-2020-10148): 18,000 downloads, ~100 high-value targets breached.
+
+- [Kaseya VSA Ransomware Attack (2021)](https://www.cisa.gov/news-events/alerts/2021/07/04/cisa-fbi-guidance-msps-and-their-customers-affected-kaseya-vsa-supply-chain-ransomware-attack): 1,500 businesses ransomed.
+
+
+**Advise:**
+
+
+- Treat **every app**, software and browser extension as **a potential backdoor**. Be very guarded and disciplined when installation software and verify the origin as well as that the package is free from malware using e.g. [VirusTotal.com](https://www.virustotal.com/gui/)
+
+- Only install software that you are going to use and **uninstall software that is not in use**, for example uninstall after 30 days of no use.
+
+- Unless it is a critical security patch for an actively exploited bug, **wait 48 hours** before installing a new software update or a new browser extension. In almost every case, the community or security researchers flagged the anomaly within the first 24 hours.
+
