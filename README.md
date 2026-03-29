@@ -1,6 +1,6 @@
 # Curated list of free software for Windows
 
-A curated list of free everyday software tools for Windows (files, documents, photos, video, system, network, backup, graphics, 3D, CAD, games, etc). Most of the programs are open-source, some are proprietary but free but.
+A curated list of free everyday software tools for Windows (files, documents, photos, video, system, network, backup, graphics, 3D, CAD, games, etc). Most of the programs are open-source, some are proprietary but free.
 
 ## Popular free/open-source utilities
 
