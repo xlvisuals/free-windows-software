@@ -6,7 +6,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 - [7Zip](https://7-zip.org/download.html) – free and open-source file archiver.
 
-- [1Password](https://1password.com/), [KeePassXC](https://keepassxc.org/), or [Password Safe](https://www.pwsafe.org/) – the most secure password managers.
+- [Proton Pass](https://proton.me/pass), [KeePassXC](https://keepassxc.org/), or [Password Safe](https://www.pwsafe.org/) – the most secure password managers. KeePassXC and Password Safe are offline and free, Proton pass is online and requires a subscription for the free tier.
 
 - [AB Download Manager](https://github.com/amir1376/ab-download-manager) or [JDownloader](https://jdownloader.org/) or [FDM](https://www.freedownloadmanager.org/)  – free download managers for large and multi–part downloads.
 
@@ -468,7 +468,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 | **Panel Explorer** | [Q-Dir](https://q-dir.com/) | [Commander One](https://mac.eltima.com/file-manager.html) | [Dolphin](https://apps.kde.org/dolphin/) | [Nautilus](https://wiki.gnome.org/Apps/Files) |
 | **Panorama Tool** | [Hugin](https://hugin.sourceforge.io/) | [Hugin](https://hugin.sourceforge.io/) | [Hugin](https://hugin.sourceforge.io/) | [Hugin](https://hugin.sourceforge.io/) |
 | **Partition Manager** | [MiniTool Partition Wizard](https://www.partitionwizard.com/) | [Disk Utility](https://support.apple.com/guide/disk-utility/welcome/mac) | [KDE Partition Manager](https://apps.kde.org/partitionmanager/) | [Gparted](https://gparted.org/) |
-| **Password Manager** | [1Password](https://1password.com/) / [KeePassXC](https://keepassxc.org/) / [Password Safe](https://www.pwsafe.org/) | [1Password](https://1password.com/) / [KeePassXC](https://keepassxc.org/) | [KeePassXC](https://keepassxc.org/) / [KWallet](https://apps.kde.org/kwalletmanager5/) | [KeePassXC](https://keepassxc.org/) / [Secrets](https://www.google.com/search?q=https://wiki.gnome.org/Apps/Secrets) |
+| **Password Manager** | [Proton Pass](https://proton.me/pass) / [KeePassXC](https://keepassxc.org/) / [Password Safe](https://www.pwsafe.org/) | [Proton Pass](https://proton.me/pass) / [KeePassXC](https://keepassxc.org/) | [Proton Pass](https://proton.me/pass) / [KeePassXC](https://keepassxc.org/) / [KWallet](https://apps.kde.org/kwalletmanager5/) | [KeePassXC](https://keepassxc.org/) / [Secrets](https://www.google.com/search?q=https://wiki.gnome.org/Apps/Secrets) |
 | **PCB Design** | [KiCad](https://www.kicad.org/) | [KiCad](https://www.kicad.org/) | [KiCad](https://www.kicad.org/) | [KiCad](https://www.kicad.org/) |
 | **PDF Printer/Tool** | [PDF24 Creator](https://www.pdf24.org/en/) | (Print to PDF Native) | (Print to PDF Native) | (Print to PDF Native) |
 | **Photo Workflow** | [Darktable](https://www.darktable.org/) / [DigiKam](https://www.digikam.org/) | [Darktable](https://www.darktable.org/) / [DigiKam](https://www.digikam.org/) | [DigiKam](https://www.digikam.org/) / [Darktable](https://www.darktable.org/) | [Darktable](https://www.darktable.org/) / [DigiKam](https://www.digikam.org/) |
