@@ -398,6 +398,13 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 - [Xonotic](https://xonotic.org/) – free and open-source arena shooter with modern graphics and gameplay.
 
 
+### Honorary game store mentions 
+
+- [GOG (Good Old Games)](https://www.gog.com/) - The gold standard game store. While most games on GOG are not free, they are DRM-free and many cost less than $2 during a sale. Well worth the convenience of an installer. The DRM-free "offline installer" download means you can be sure that you **own** the game, even if the platform GOG shuts down. In regular game stores (e.g. EA, Ubisoft, Blizzard, Rockstar, Epic, Steam, Microsoft) you only purchase a license that is tied to your login, and it can be revoked should the license deal between the store and publisher change, or if the publisher turns off their login servers.
+
+- [Itch.io](https://itch.io/) - Primarily for indie games. Most games here are not free, but they are direct zip-file downloads with no launcher required.
+
+
 ## Cross-platform software directory for Windows, macOS, and Linux (KDE/Gnome)
 
 
