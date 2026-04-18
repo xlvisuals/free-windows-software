@@ -284,6 +284,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/) – free and open-source tool to install and update windows device drivers, with a 40+GB driver archive. Supports Windows XP to Windows 11.
 
+- [Sniffnet](https://sniffnet.net/) or [Wireshark](https://www.wireshark.org/) - free and open-source network traffic monitor.
+
 - [Sumatra PDF Reader ](https://www.sumatrapdfreader.org/)– view PDFs, eBooks (ePub, Mobi), Comics, CHM and images. Free.
 
 - [SysinternalsSuite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) – free collection of advanced system utilities for Windows.
@@ -331,8 +333,6 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 - [WinImage](http://winimage.com/download.htm) – a disk utility to manage disk images, including floppy disks – create, edit, write, extract files etc.
 
 - [WinMerge](https://winmerge.org/) – free and open-source software tool for data comparison and merging of text–like files.
-
-- [Wireshark](https://www.wireshark.org/) – free and open-source cross-platformNetwork monitor.
 
 - [Wintoys](https://www.techspot.com/downloads/6152-wintoys.html) – free tool to tweak settings, remove software bloat (Edge, Copilot), free disk space.
 
@@ -466,8 +466,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 | **MS Store / App Installer** | [Alt App Installer](https://github.com/mjishnu/alt-app-installer) | [Homebrew](https://brew.sh/) | [Discover](https://apps.kde.org/discover/) | [Gnome Software](https://wiki.gnome.org/Apps/Software) |
 | **Music Player** | [Clementine](https://www.clementine-player.org/) / [foobar2000](https://www.foobar2000.org/) | [Clementine](https://www.clementine-player.org/) / [MusicBee](https://getmusicbee.com/) | [Clementine](https://www.clementine-player.org/) / [Elisa](https://apps.kde.org/elisa/) | [Lollypop](https://wiki.gnome.org/Apps/Lollypop) / [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) |
 | **Navigation** | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) |
-| **Network Monitor** | [Wireshark](https://www.wireshark.org/) | [Wireshark](https://www.wireshark.org/) | [Wireshark](https://www.wireshark.org/) | [Wireshark](https://www.wireshark.org/) |
-| **Network Scanner** | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) |
+| **Network Monitor** | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) | [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/) || **Network Scanner** | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) | [NMap](https://nmap.org/) |
 | **Network Test** | [iPerf3](https://iperf.fr/iperf-download.php) | [iPerf3](https://iperf.fr/iperf-download.php) | [iPerf3](https://iperf.fr/iperf-download.php) | [iPerf3](https://iperf.fr/iperf-download.php) |
 | **Office Suite** | [LibreOffice](https://www.libreoffice.org/) | [LibreOffice](https://www.libreoffice.org/) | [LibreOffice](https://www.libreoffice.org/) | [LibreOffice](https://www.libreoffice.org/) |
 | **Offline Reader** | [Kiwix](https://kiwix.org/en/) | [Kiwix](https://kiwix.org/en/) | [Kiwix](https://kiwix.org/en/) | [Kiwix](https://kiwix.org/en/) |
