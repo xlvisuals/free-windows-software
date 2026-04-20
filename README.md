@@ -2,6 +2,42 @@
 
 A curated list of free everyday software tools for Windows (files, documents, photos, video, system, network, backup, graphics, 3D, CAD, games, etc). Most of the programs are open-source, some are proprietary but free.
 
+## Commercial Software vs. Free Alternatives
+
+| Commercial / Subscription Software | Free Replacement Option(s) |
+| :--- | :--- |
+| **Microsoft Office 365** | [LibreOffice](https://www.libreoffice.org/), [OnlyOffice](https://www.onlyoffice.com/) |
+| **Adobe Photoshop** | [Gimp](https://www.gimp.org/), [Affinity Studio](https://www.affinity.studio/), [Krita](https://krita.org/en/), [Paint.NET](https://www.getpaint.net/index.html) |
+| **Adobe Illustrator / CorelDRAW** | [Inkscape](https://inkscape.org/), [Affinity Studio](https://www.affinity.studio/) |
+| **Adobe InDesign** | [Affinity Studio](https://www.affinity.studio/) |
+| **Adobe Premiere Pro / Vegas Pro** | [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://www.shotcut.org/), [Kdenlive](https://cdn.kde.org/ci-builds/multimedia/kdenlive/) |
+| **Adobe Lightroom** | [Darktable](https://www.darktable.org/) + [digiKam](https://www.digikam.org/) |
+| **Adobe Acrobat Pro** (Editing/Forms) | [LibreOffice](https://www.libreoffice.org/), [Okular](https://okular.kde.org/), [Sumatra PDF](https://www.sumatrapdfreader.org/) |
+| **Adobe Audition** | [Audacity](https://www.audacityteam.org/download/), [Oceanaudio](https://www.ocenaudio.com/en/) |
+| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad\|3D](https://macad3d.net/), [OpenSCAD](https://openscad.org/), [Chili3d](https://chili3d.com/) |
+| **1Password / LastPass / Dashlane** | [Proton Pass](https://proton.me/pass), [KeePassXC](https://keepassxc.org/), [Password Safe](https://www.pwsafe.org/) |
+| **Microsoft Outlook** | [Thunderbird](https://www.thunderbird.net/en-US/) |
+| **Microsoft Visio / Lucidchart** | [Draw.io Desktop](https://github.com/jgraph/drawio-desktop) |
+| **WinZip / WinRAR** | [7Zip](https://7-zip.org/download.html) |
+| **CCleaner (Professional)** | [BleachBit](https://www.bleachbit.org/), [Wintoys](https://www.techspot.com/downloads/6152-wintoys.html) |
+| **TeamViewer / LogMeIn** | [TightVNC](https://www.tightvnc.com/download.php) |
+| **Plex (Premium features)** | [Jellyfin](https://jellyfin.org/) |
+| **Maya / 3ds Max / Cinema 4D** | [Blender](https://www.blender.org/download/) |
+| **FL Studio / Ableton Live** | [LMMS](https://lmms.io/) |
+| **Snagit** | [Greenshot](https://getgreenshot.org/), [ShareX](https://getgreenshot.org/downloads/) |
+| **Acronis Cyber Protect / Carbonite** | [AOMEI Backupper](https://www.aomeitech.com/ab/standard.html) |
+| **Nero / Roxio Burning ROM** | [ImgBurn](https://www.imgburn.com/), [InfraRecorder](http://infrarecorder.org/), [CDBurnerXP](https://www.cdburnerxp.se/) |
+| **Internet Download Manager (IDM)** | [AB Download Manager](https://github.com/amir1376/ab-download-manager), [JDownloader](https://jdownloader.org/), [FDM](https://www.freedownloadmanager.org/) |
+| **Unity / Unreal Engine (Paid Tiers)** | [Godot](https://godotengine.org/) |
+| **Sublime Text / UltraEdit** | [Notepad++](https://notepad-plus-plus.org/downloads/) |
+| **AIDA64 / Everest** | [HWiNFO](https://www.hwinfo.com/) |
+| **Total Commander / Directory Opus** | [Dolphin](https://apps.kde.org/dolphin/), [Double Commander](https://doublecmd.sourceforge.io/), [Q–Dir](https://q-dir.com/) |
+| **Norton / McAfee** | [ClamAV](https://www.clamav.net/) |
+| **Altium Designer / Eagle** | [KiCad](https://www.kicad.org/) |
+| **Camtasia / XSplit** | [OBS Studio](https://obsproject.com/) |
+| **Beyond Compare** | [WinMerge](https://winmerge.org/) |
+
+
 ## Popular free/open-source utilities
 
 - [7Zip](https://7-zip.org/download.html) – free and open-source file archiver.
