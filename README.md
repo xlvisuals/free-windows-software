@@ -11,6 +11,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 | **4K Video Downloader (Paid)** | [yt–dlp](https://github.com/yt-dlp/yt-dlp) |
 | **Acronis Cyber Protect / Carbonite** | [AOMEI Backupper](https://www.aomeitech.com/ab/standard.html) |
 | **Adobe Acrobat Pro** (Editing/Forms) | [LibreOffice](https://www.libreoffice.org/), [Okular](https://okular.kde.org/), [Sumatra PDF](https://www.sumatrapdfreader.org/) |
+| **Adobe After Effects** (Motion Design) | [Autograph](https://www.maxon.net/en/autograph), [Cavalry](https://cavalry.studio/en/) |
 | **Adobe Audition** | [Audacity](https://www.audacityteam.org/download/), [Oceanaudio](https://www.ocenaudio.com/en/) |
 | **Adobe Bridge (Metadata)** | [Exif Data Viewer](http://www.exifdataviewer.com/), [Kid3](https://kid3.kde.org/) (for audio) |
 | **Adobe Illustrator / CorelDRAW** | [Inkscape](https://inkscape.org/), [Affinity Studio](https://www.affinity.studio/) |
@@ -20,7 +21,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 | **Adobe Premiere Pro / Vegas Pro** | [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://www.shotcut.org/), [Kdenlive](https://cdn.kde.org/ci-builds/multimedia/kdenlive/) |
 | **AIDA64 / Everest** | [HWiNFO](https://www.hwinfo.com/) |
 | **Altium Designer / Eagle** | [KiCad](https://www.kicad.org/) |
-| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad|3D](https://macad3d.net/), [OpenSCAD](https://openscad.org/), [Chili3d](https://chili3d.com/) |
+| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad|3D](https://macad3d.net/), [Chili3d](https://chili3d.com/), [Solid Edge Community Edition](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/), [OpenSCAD](https://openscad.org/)  |
 | **Beyond Compare** | [WinMerge](https://winmerge.org/) |
 | **Bulk Rename Utility (Pro)** | [Ant Renamer](https://www.antp.be/software/renamer) |
 | **Burp Suite Professional** | [Burp Suite Community](https://portswigger.net/burp/communitydownload), [OWASP ZAP](https://www.zaproxy.org/) |
@@ -75,7 +76,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 - [AB Download Manager](https://github.com/amir1376/ab-download-manager) or [JDownloader](https://jdownloader.org/) or [FDM](https://www.freedownloadmanager.org/)  – free download managers for large and multi–part downloads.
 
-- [Affinity Studio](https://www.affinity.studio/) – Similar to Photoshop, Illustrator, and InDesign. Free with account.
+- [Affinity Studio](https://www.affinity.studio/) – Free photo editing, vector design, illustration, and layout. Similar to Photoshop, Illustrator, and InDesign. Free with account.
 
 - [Alt App Installer](https://github.com/mjishnu/alt-app-installer) – free and open-source program to download and install microsoft store apps, for cli version check [alt app installer cli](https://github.com/mjishnu/alt-app-installer-cli). 
 
@@ -84,6 +85,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 - [AOMEI Backupper](https://www.aomeitech.com/ab/standard.html) – Backup for windows, free for personal use.
 
 - [Audacity](https://www.audacityteam.org/download/) or [Oceanaudio](https://www.ocenaudio.com/en/) – free audio editors for recording, editing, and mixing.
+
+- [Autograph](https://www.maxon.net/en/autograph) - 2d/3d motion graphics software similar to Adobe After Effects. Free with account.
 
 - [BleachBit](https://www.bleachbit.org/) – free and open-source disk space cleaner.
 
@@ -108,6 +111,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
     - Open regedit.exe and delete the registry key folder "HKEY\_CURRENT\_USER\\SOFTWARE\\Amazon".
 
     - Install Kindle 1.17 for PC.
+
+- [Cavalry](https://cavalry.studio/en/) - 2d motion graphics software. Free for individuals with account.
 
 - [ClamAV](https://www.clamav.net/) – free and open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats. It is used internally by solutions like [ClamWin](https://clamwin.com/) and [MoonSecure](https://moonsecure.org/df/).
 
@@ -191,8 +196,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 - [FreeCAD](https://www.freecad.org/), [Macad|3D](https://macad3d.net/) – free and open-source 3D construction programs (CAD) with exports for printing, milling, laser cutting and photo etching. 
 
-	- Other CAD software:
-	
+	- Other CAD software with free access:
+
 		- [Chili3d.com](https://chili3d.com/) – Free browser-based CAD software. No account required.
 		
 		- [Fusion360](https://www.autodesk.com/products/fusion-360/personal) – Commercial CAD software. Free with account for non-commercial use.
@@ -202,7 +207,9 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 		- [OpenSCAD](https://openscad.org/) – free and open-source tool for creating 3D CAD objects from coded instructions. Use [threadlib](https://github.com/adrianschlatter/threadlib) for threads.
 		
 		- [Onshape](https://www.onshape.com/en) – "Solidworks in the browser". Free with account for non-commercial use.
-		
+
+		- [Solid Edge Community Edition](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/) - Professional 3D CAD and FEM simulation software. Free for personal use with account.
+    
 		- [TinkerCAD](https://www.tinkercad.com/) – simple online visual modeller. Free with account for non-commercial use.
 
 - [Freemind](https://sourceforge.net/projects/freemind/) – free and open-source mind mapping software.
@@ -350,6 +357,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 - [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/) – free and open-source tool to install and update windows device drivers, with a 40+GB driver archive. Supports Windows XP to Windows 11.
 
 - [Sniffnet](https://sniffnet.net/) or [Wireshark](https://www.wireshark.org/) - free and open-source network traffic monitor.
+
+- [Solid Edge Community Edition](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/) - Professional 3D CAD and FEM simulation software. Free for personal use with account.
 
 - [Sumatra PDF Reader ](https://www.sumatrapdfreader.org/)– view PDFs, eBooks (ePub, Mobi), Comics, CHM and images. Free.
 
