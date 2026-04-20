@@ -5,37 +5,66 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 ## Commercial Software vs. Free Alternatives
 
 | Commercial / Subscription Software | Free Replacement Option(s) |
-| :--- | :--- |
-| **Microsoft Office 365** | [LibreOffice](https://www.libreoffice.org/), [OnlyOffice](https://www.onlyoffice.com/) |
-| **Adobe Photoshop** | [Gimp](https://www.gimp.org/), [Affinity Studio](https://www.affinity.studio/), [Krita](https://krita.org/en/), [Paint.NET](https://www.getpaint.net/index.html) |
-| **Adobe Illustrator / CorelDRAW** | [Inkscape](https://inkscape.org/), [Affinity Studio](https://www.affinity.studio/) |
-| **Adobe InDesign** | [Affinity Studio](https://www.affinity.studio/) |
-| **Adobe Premiere Pro / Vegas Pro** | [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://www.shotcut.org/), [Kdenlive](https://cdn.kde.org/ci-builds/multimedia/kdenlive/) |
-| **Adobe Lightroom** | [Darktable](https://www.darktable.org/) + [digiKam](https://www.digikam.org/) |
+| - | - |
+| **010 Editor / Hex Workshop** | [HxD](https://mh-nexus.de/en/hxd/) |
+| **1Password / LastPass / Dashlane** | [Proton Pass](https://proton.me/pass), [KeePassXC](https://keepassxc.org/), [Password Safe](https://www.pwsafe.org/) |
+| **4K Video Downloader (Paid)** | [yt–dlp](https://github.com/yt-dlp/yt-dlp) |
+| **Acronis Cyber Protect / Carbonite** | [AOMEI Backupper](https://www.aomeitech.com/ab/standard.html) |
 | **Adobe Acrobat Pro** (Editing/Forms) | [LibreOffice](https://www.libreoffice.org/), [Okular](https://okular.kde.org/), [Sumatra PDF](https://www.sumatrapdfreader.org/) |
 | **Adobe Audition** | [Audacity](https://www.audacityteam.org/download/), [Oceanaudio](https://www.ocenaudio.com/en/) |
-| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad\|3D](https://macad3d.net/), [OpenSCAD](https://openscad.org/), [Chili3d](https://chili3d.com/) |
-| **1Password / LastPass / Dashlane** | [Proton Pass](https://proton.me/pass), [KeePassXC](https://keepassxc.org/), [Password Safe](https://www.pwsafe.org/) |
+| **Adobe Bridge (Metadata)** | [Exif Data Viewer](http://www.exifdataviewer.com/), [Kid3](https://kid3.kde.org/) (for audio) |
+| **Adobe Illustrator / CorelDRAW** | [Inkscape](https://inkscape.org/), [Affinity Studio](https://www.affinity.studio/) |
+| **Adobe InDesign** | [Affinity Studio](https://www.affinity.studio/) |
+| **Adobe Lightroom** | [Darktable](https://www.darktable.org/) + [digiKam](https://www.digikam.org/) |
+| **Adobe Photoshop** | [Gimp](https://www.gimp.org/), [Affinity Studio](https://www.affinity.studio/), [Krita](https://krita.org/en/), [Paint.NET](https://www.getpaint.net/index.html) |
+| **Adobe Premiere Pro / Vegas Pro** | [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://www.shotcut.org/), [Kdenlive](https://cdn.kde.org/ci-builds/multimedia/kdenlive/) |
+| **AIDA64 / Everest** | [HWiNFO](https://www.hwinfo.com/) |
+| **Altium Designer / Eagle** | [KiCad](https://www.kicad.org/) |
+| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad|3D](https://macad3d.net/), [OpenSCAD](https://openscad.org/), [Chili3d](https://chili3d.com/) |
+| **Beyond Compare** | [WinMerge](https://winmerge.org/) |
+| **Bulk Rename Utility (Pro)** | [Ant Renamer](https://www.antp.be/software/renamer) |
+| **Burp Suite Professional** | [Burp Suite Community](https://portswigger.net/burp/communitydownload), [OWASP ZAP](https://www.zaproxy.org/) |
+| **Camtasia / XSplit** | [OBS Studio](https://obsproject.com/) |
+| **CCleaner (Professional)** | [BleachBit](https://www.bleachbit.org/), [Wintoys](https://www.techspot.com/downloads/6152-wintoys.html) |
+| **DAEMON Tools** | [WinCDEmu](https://wincdemu.sysprogs.org/download/), [WinImage](http://winimage.com/download.htm) |
+| **Driver Booster / DriverPack (Paid)** | [Snappy Driver Installer Origin](https://www.glenn.delahoy.com/snappy-driver-installer-origin/) |
+| **EaseUS Data Recovery / Stellar** | [Recuva](https://www.ccleaner.com/recuva/) |
+| **EaseUS Partition Master / Acronis** | [MiniTool Partition Wizard](https://www.partitionwizard.com/) (v11.5 for cloning) |
+| **Embarcadero Delphi** | [Lazarus](https://www.lazarus-ide.org/) |
+| **EZ CD Audio Converter** | [Fre:ac](https://www.freac.org/), [CDex](https://cdex.mu/) |
+| **FL Studio / Ableton Live** | [LMMS](https://lmms.io/) |
+| **Garmin BlueChart / TimeZero** | [OpenCPN](https://opencpn.org/OpenCPN/info/downloads.html) |
+| **HD Tune Pro** | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) |
+| **InstallShield / Wix (Paid)** | [Inno Setup](https://jrsoftware.org/isinfo.php) |
+| **Internet Download Manager (IDM)** | [AB Download Manager](https://github.com/amir1376/ab-download-manager), [JDownloader](https://jdownloader.org/), [FDM](https://www.freedownloadmanager.org/) |
+| **iTunes / Roon / Spotify Desktop** | [Clementine](https://www.clementine-player.org/), [foobar2000](https://www.foobar2000.org/) |
+| **Kindle Desktop / Adobe Digital Ed.** | [Calibre](https://calibre-ebook.com/), [Okular](https://okular.kde.org/), [Sumatra PDF](https://www.sumatrapdfreader.org/) |
+| **Maya / 3ds Max / Cinema 4D** | [Blender](https://www.blender.org/download/) |
+| **Microsoft Office 365** | [LibreOffice](https://www.libreoffice.org/), [OnlyOffice](https://www.onlyoffice.com/) |
 | **Microsoft Outlook** | [Thunderbird](https://www.thunderbird.net/en-US/) |
 | **Microsoft Visio / Lucidchart** | [Draw.io Desktop](https://github.com/jgraph/drawio-desktop) |
-| **WinZip / WinRAR** | [7Zip](https://7-zip.org/download.html) |
-| **CCleaner (Professional)** | [BleachBit](https://www.bleachbit.org/), [Wintoys](https://www.techspot.com/downloads/6152-wintoys.html) |
-| **TeamViewer / LogMeIn** | [TightVNC](https://www.tightvnc.com/download.php) |
-| **Plex (Premium features)** | [Jellyfin](https://jellyfin.org/) |
-| **Maya / 3ds Max / Cinema 4D** | [Blender](https://www.blender.org/download/) |
-| **FL Studio / Ableton Live** | [LMMS](https://lmms.io/) |
-| **Snagit** | [Greenshot](https://getgreenshot.org/), [ShareX](https://getgreenshot.org/downloads/) |
-| **Acronis Cyber Protect / Carbonite** | [AOMEI Backupper](https://www.aomeitech.com/ab/standard.html) |
+| **MindManager / XMind** | [Freemind](https://sourceforge.net/projects/freemind/) |
 | **Nero / Roxio Burning ROM** | [ImgBurn](https://www.imgburn.com/), [InfraRecorder](http://infrarecorder.org/), [CDBurnerXP](https://www.cdburnerxp.se/) |
-| **Internet Download Manager (IDM)** | [AB Download Manager](https://github.com/amir1376/ab-download-manager), [JDownloader](https://jdownloader.org/), [FDM](https://www.freedownloadmanager.org/) |
-| **Unity / Unreal Engine (Paid Tiers)** | [Godot](https://godotengine.org/) |
-| **Sublime Text / UltraEdit** | [Notepad++](https://notepad-plus-plus.org/downloads/) |
-| **AIDA64 / Everest** | [HWiNFO](https://www.hwinfo.com/) |
-| **Total Commander / Directory Opus** | [Dolphin](https://apps.kde.org/dolphin/), [Double Commander](https://doublecmd.sourceforge.io/), [Q–Dir](https://q-dir.com/) |
+| **Ninite Pro / PDQ Deploy** | [UniGetUI](https://github.com/Devolutions/UniGetUI), [Winget](https://github.com/paulerrr/Winget-on-Windows-11-IoT), [Alt App Installer](https://github.com/mjishnu/alt-app-installer) |
 | **Norton / McAfee** | [ClamAV](https://www.clamav.net/) |
-| **Altium Designer / Eagle** | [KiCad](https://www.kicad.org/) |
-| **Camtasia / XSplit** | [OBS Studio](https://obsproject.com/) |
-| **Beyond Compare** | [WinMerge](https://winmerge.org/) |
+| **Plex (Premium features)** | [Jellyfin](https://jellyfin.org/) |
+| **PowerISO / UltraISO** | [Rufus](https://rufus.ie/en/), [Ventoy](https://www.ventoy.net/en/index.html), [WinCDEmu](https://wincdemu.sysprogs.org/download/) |
+| **Process Hacker / Advanced SystemCare** | [System Informer](https://systeminformer.sourceforge.io/), [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) |
+| **PTGui (Panorama Stitching)** | [Hugin](https://hugin.sourceforge.io/), [ExifFixer](https://exiffixer.com/) |
+| **Serato DJ / Traktor Pro** | [Mixxx](https://mixxx.org/) |
+| **SketchUp Pro / Chief Architect** | [Sweet Home 3D](http://www.sweethome3d.com/) |
+| **Snagit** | [Greenshot](https://getgreenshot.org/), [ShareX](https://getgreenshot.org/downloads/) |
+| **SolarWinds / PRTG Network Monitor** | [NMap](https://nmap.org/), [Wireshark](https://www.wireshark.org/), [Sniffnet](https://sniffnet.net/), [iPerf3](https://iperf.fr/iperf-download.php) |
+| **Start11 / StartAllBack** | [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) |
+| **StarUML (Pro) / LucidChart** | [Modelio](https://www.modelio.org/), [StarUML](https://staruml.io/), [Violet](https://sourceforge.net/projects/violet/) |
+| **Sublime Text / UltraEdit** | [Notepad++](https://notepad-plus-plus.org/downloads/) |
+| **TeamViewer / LogMeIn** | [TightVNC](https://www.tightvnc.com/download.php) |
+| **Total Commander / Directory Opus** | [Dolphin](https://apps.kde.org/dolphin/), [Double Commander](https://doublecmd.sourceforge.io/), [Q–Dir](https://q-dir.com/) |
+| **TreeSize Professional** | [WinDirStat](https://windirstat.net/download.html) |
+| **Unity / Unreal Engine (Paid Tiers)** | [Godot](https://godotengine.org/) |
+| **Windows Search / Spotlight** | [Everything](https://www.voidtools.com/downloads/), [Flow Launcher](https://www.flowlauncher.com/) |
+| **WinZip / WinRAR** | [7Zip](https://7-zip.org/download.html) |
+
 
 
 ## Popular free/open-source utilities
