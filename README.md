@@ -21,7 +21,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 | **Adobe Premiere Pro / Vegas Pro** | [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://www.shotcut.org/), [Kdenlive](https://cdn.kde.org/ci-builds/multimedia/kdenlive/) |
 | **AIDA64 / Everest** | [HWiNFO](https://www.hwinfo.com/) |
 | **Altium Designer / Eagle** | [KiCad](https://www.kicad.org/) |
-| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad|3D](https://macad3d.net/), [Chili3d](https://chili3d.com/), [Solid Edge Community Edition](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/), [OpenSCAD](https://openscad.org/)  |
+| **AutoCAD / SolidWorks** | [FreeCAD](https://www.freecad.org/), [Macad 3D](https://macad3d.net/), [Chili3d](https://chili3d.com/), [Solid Edge Community Edition](https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/), [OpenSCAD](https://openscad.org/)  |
 | **Beyond Compare** | [WinMerge](https://winmerge.org/) |
 | **Bulk Rename Utility (Pro)** | [Ant Renamer](https://www.antp.be/software/renamer) |
 | **Burp Suite Professional** | [Burp Suite Community](https://portswigger.net/burp/communitydownload), [OWASP ZAP](https://www.zaproxy.org/) |
