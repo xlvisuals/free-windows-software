@@ -152,6 +152,8 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 
 - [ExifFixer](https://exiffixer.com/) – free tool that sets the correct metadata for panoramic and 360 degree photos.
 
+- [Ferrite](https://getferrite.dev/) – free and open-source Markdown editor that supports tables and Preview.
+
 - [Firefox](https://www.firefox.com/en-US/) browser with [uBlock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) – a free and open-source browser and extension that efficiently blocks ads, trackers, and other unwanted content.
 
   - Extensions:
@@ -532,6 +534,7 @@ A curated list of free everyday software tools for Windows (files, documents, ph
 | **Lightweight Image** | [Paint.NET](https://www.getpaint.net/index.html) | [Pinta](https://www.google.com/search?q=https://pinta-project.com/pintaproject/pinta/) | [Pinta](https://www.google.com/search?q=https://pinta-project.com/pintaproject/pinta/) / [KolourPaint](https://apps.kde.org/kolourpaint/) | [Pinta](https://www.google.com/search?q=https://pinta-project.com/pintaproject/pinta/) |
 | **Linux Drive Reader** | [DiskInternals Linux Reader](https://www.diskinternals.com/linux-reader/) | [FUSE](https://osxfuse.github.io/) / [Ext4fuse](https://github.com/gerard/ext4fuse) | (Native Support) | (Native Support) |
 | **Load Tester** | [JMeter](https://jmeter.apache.org/) | [JMeter](https://jmeter.apache.org/) | [JMeter](https://jmeter.apache.org/) | [JMeter](https://jmeter.apache.org/) |
+| **Markdown Editor** | [Ferrite](https://getferrite.dev/) | [MarkEdit](https://github.com/MarkEdit-app/MarkEdit), [Ferrite](https://getferrite.dev/) | [Ferrite](https://getferrite.dev/) | [Ferrite](https://getferrite.dev/) |
 | **Media Player** | [VLC](https://www.videolan.org/vlc/) | [VLC](https://www.videolan.org/vlc/) / [IINA](https://iina.io/) | [Dragon Player](https://apps.kde.org/dragonplayer/) / [VLC](https://www.videolan.org/vlc/) | [Clapper](https://www.google.com/search?q=https://github.com/Rafostar/Clapper) / [VLC](https://www.videolan.org/vlc/) |
 | **Media Server** | [Jellyfin](https://jellyfin.org/) | [Jellyfin](https://jellyfin.org/) | [Jellyfin](https://jellyfin.org/) | [Jellyfin](https://jellyfin.org/) |
 | **Mesh Processing** | [Meshlab](https://www.meshlab.net/) / [Meshmixer](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/MeshMixer.shtml) | [Meshlab](https://www.meshlab.net/) | [Meshlab](https://www.meshlab.net/) | [Meshlab](https://www.meshlab.net/) |
