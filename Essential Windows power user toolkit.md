@@ -32,7 +32,11 @@
 
 - **Everything:** The absolute greatest search utility ever created for Windows. Unlike the slow, resource-heavy built-in Windows Search indexing, *Everything* hooks directly into the low-level NTFS Master File Table (MFT). Because it reads the raw file system journal, it locates any file or folder across terabytes of data **instantly** as you type, while consuming practically zero background CPU. It is a mandatory install to bypass the sluggish search bars of modern Windows. [https://www.voidtools.com/](https://www.voidtools.com/) 
 
-- **Double Commander:** A magnificent, open-source cross-platform dual-panel file manager inspired by Total Commander. It features two side-by-side active windows, an internal text editor with syntax highlighting, a built-in file viewer for hex or binary formats, multi-rename capabilities, and tabbed browsing. It is the ultimate tool for technicians moving large volumes of files between drives with keyboard-driven precision. [https://doublecmd.sourceforge.io/](https://doublecmd.sourceforge.io/) 
+- **Double Commander:** A fast, open-source cross-platform dual-panel file manager inspired by Total Commander. It features fast file copy, an internal text editor with syntax highlighting, a built-in file viewer for hex or binary formats, multi-rename capabilities, and tabbed browsing. It is the ultimate tool for technicians moving large volumes of files between drives with keyboard-driven precision. Download from [https://doublecmd.sourceforge.io/](https://doublecmd.sourceforge.io/). For a familiar Windows look set the following configuration options:
+  - Configuration > Options:
+	  - Fonts > Main Font: Segue UI Regular 9pt
+	  - Icons > File panel: 16x16
+	  - Icons > Disk panel: 24x24  
 
 - **Dolphin (KDE Frameworks for Windows):** A powerhouse alternative to standard Windows Explorer. Celebrated as the ultimate file manager on Linux, modern daily builds of Dolphin have been cleanly compiled to run natively on Windows via Qt6. For users who prefer a streamlined, polished UNIX environment over the generic Windows layout, Dolphin can be heavily themed, tuned, and customized with specific icon packs, top-bar window rules, and sidebars to look and behave almost identically to the **macOS Finder**—complete with tab splitting and native embedded terminal panels.  [https://cdn.kde.org/ci-builds/system/dolphin/master/windows/](https://cdn.kde.org/ci-builds/system/dolphin/master/windows/) 
 
@@ -112,11 +116,25 @@
 
 - **PDF24 Creator:** An exceptional offline PDF editor. Legacy versions (like the 9.x/10.x series) pack file splitting, merging, signing, and local compression into a completely free offline toolset that works flawlessly on older operating footprints like Windows 7. [https://tools.pdf24.org/en/creator](https://tools.pdf24.org/en/creator) 
 
-- **Supermium:** An exceptional feat of modern browser engineering. It is an actively updated, secure fork of Chromium backported to run flawlessly on legacy platforms like Windows 7, Vista, and XP as well.  [https://win32subsystem.live/supermium/](https://win32subsystem.live/supermium/) 
-
+- **Supermium:** An exceptional feat of modern browser engineering. It is an actively updated, secure fork of Chromium that also runs flawlessly on legacy platforms like Windows 7, Vista, and XP as well. Download from [https://win32subsystem.live/supermium/](https://win32subsystem.live/supermium/).
+  - Recommended extensions:
+    - [UBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+    - [KeePassXC-Browser](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
+    - [JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+    - [SponsorBlock](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+      
+- **Firefox:** An open-source browser made by Mozilla, a non-profit, without corporate agenda — no Bing, no Copilot, no Microsoft ecosystem nudges. It looks and works almost identically to Edge, with tabs, extensions, and bookmarks all in the familiar places, but it's more privacy-focused by default, blocking more trackers out of the box, and gives you a bit more control over how the browser looks and behaves. Download from [https://www.firefox.com/](https://www.firefox.com/). For users of Windows older than 10 there's the MyPal fork at [https://codeberg.org/Theodor2/Mypal68/releases](https://codeberg.org/Theodor2/Mypal68/releases).
+  - Recommended extensions:
+    - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+    - [KeePassXC-Browser](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)
+    - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+    - [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+      
 - **SumatraPDF:** A blazing-fast, incredibly lightweight document reader. Free from the resource-heavy bloat of standard PDF applications, it reads PDFs, ePubs, Mobi files, and comic books instantly while using negligible system RAM.  [https://www.sumatrapdfreader.org/](https://www.sumatrapdfreader.org/) 
 
 - **Notepad++:** The mandatory, deeply scriptable replacement for the stock Windows text editor, complete with tabbed windows, robust macro support, powerful regular-expression find-and-replace mechanics, and native syntax highlighting for dozens of languages. [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/) 
+
+- **KeePassXC:** An open-source and no-nonsense, ad-free, tracker-free, and cloud-free password manager. KeePassXC safely stores your passwords and auto-fills them into your favorite apps. [https://keepassxc.org/](https://keepassxc.org/)
 
 - **Macad3D:** Open-source parametric 3D CAD tool focused on mechanical design and part modeling. Macad3D combines a clean, predictable graphical interface with Python scripting for programmatic model creation and automation – very useful for quickly creating or modifying parts for 3D printing. [https://macad3d.net/](https://macad3d.net/) 
 
