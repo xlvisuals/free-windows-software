@@ -3,15 +3,20 @@
 ## Deployment & multi-boot
 
 - **Ventoy:** The absolute king of bootable USB drives. Instead of flashing a single ISO to a thumb drive and wiping it every time, you install Ventoy to the drive *once*. From then on, you simply drag and drop your Windows ISOs, Linux distros, and WinPE recovery discs directly onto the drive like standard files. Ventoy automatically generates a boot menu at startup, letting you carry dozens of bootable environments on a single piece of hardware.  
-[https://www.ventoy.net/en/index.html](https://www.ventoy.net/en/index.html) 
+[https://www.ventoy.net/en/index.html](https://www.ventoy.net/en/index.html)
 
+## Package managers
 
+- **Ninite:** Ninite is a user-friendly, web-based tool that lets you select from a curated list of popular Windows applications and downloads a single, custom installer to install or update them all at once automatically. [https://www.imgburn.com](https://ninite.com/)
+
+- **Winget:** WinGet (Windows Package Manager) is a built-in, command-line tool from Microsoft that lets you to discover, install, upgrade, and configure thousands of applications using simple text commands. [Browse the application library at wininstall](https://winstall.app/)
+
+  
 ## Imaging & media creation
 
 - **ImgBurn:** The absolute gold standard for optical media creation and ISO extraction. It bypasses any modern system bloat to cleanly write, verify, and read raw image signatures to and from discs, supporting advanced bootable parameters. [https://www.imgburn.com/](https://www.imgburn.com/) 
 
-- **WinImage:** A vintage imaging utility engineered to read, write, modify, and inject files directly into raw image structures like `.IMG`, `.IMA`, and virtual server `.VHD` volumes.  
-[https://winimage.com/download.htm](https://winimage.com/download.htm) 
+- **WinImage:** A vintage imaging utility engineered to read, write, modify, and inject files directly into raw image structures like `.IMG`, `.IMA`, and virtual server `.VHD` volumes. [https://winimage.com/download.htm](https://winimage.com/download.htm) 
 
 - **WinCDEmu:** The lightest context-menu mounter for Windows. It lets you instantly attach ISO, CUE, BIN, and IMG images as virtual optical drives via a tiny background kernel driver. [https://wincdemu.sysprogs.org/](https://wincdemu.sysprogs.org/) 
 
