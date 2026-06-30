@@ -113,7 +113,7 @@
 
 ## Productivity & documents
 
-- **7-Zip:** The premier open-source archival tool, delivering vast efficiency over stock Windows zip integration and unparalleled compression ratios through its native `.7z` format. [https://7-zip.org/](https://7-zip.org/) 
+- **7-Zip:** The premier open-source archival tool, delivering vast efficiency over stock Windows zip integration and unparalleled compression ratios through its native `.7z` format. [https://7-zip.org/](https://7-zip.org/)
 
 - **LibreOffice:** The ultimate open-source office productivity suite. It handles document processing, spreadsheets, presentations, and vector drawing with native support for standard formats, completely free of corporate account hooks or licensing popups.  [https://www.libreoffice.org/](https://www.libreoffice.org/) 
 
@@ -156,6 +156,8 @@
 
 
 ## Graphics, audio & video editing
+
+- **ColorPicker:** The stand-alone ColorPicker tool from PowerToys, without the bloat. [https://github.com/martinchrzan/ColorPicker ](https://github.com/martinchrzan/ColorPicker)
 
 - **OBS Studio:** The premier open-source software for video recording and live streaming. It features highly optimized hardware acceleration hooks, allowing you to capture high-framerate desktop feeds and system audio natively without dragging down CPU cycles. [https://obsproject.com/](https://obsproject.com/) 
 
