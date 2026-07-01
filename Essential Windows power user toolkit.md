@@ -147,6 +147,7 @@ A curated directory of lightweight, open-source, and utility-driven applications
 
 - **ShareX:** The premier open-source screen capture and documentation utilities. It enables instant scrolling-window screen grabs, annotations, and precise image markups, making it an essential tool for creating rapid technical guides or tutorials. [https://getsharex.com/](https://getsharex.com/). The last version to run on Windows 7 was [18.0.0](https://github.com/ShareX/ShareX/releases/tag/v18.0.0) 
 
+- **Zed:** A lightning-fast, open-source code editor written in Rust. It utilizes GPU acceleration to deliver near-zero layout and typing latency, combining a highly minimalist workspace and project browser with native visual debugging and Language Server Protocol (LSP) code intelligence. [https://zed.dev/](https://zed.dev/)
 
 ## Audio & video infrastructure
 
